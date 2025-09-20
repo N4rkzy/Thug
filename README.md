@@ -1,1 +1,1 @@
-git clone https://github.com/ваш-пользователь/имя-репозитория.git
+git clone https://github.com/N4rkzy/Thug.git
